@@ -30,5 +30,5 @@ It showcases my skills, projects, and resume, and is deployed live using Netlify
 My resume is included in this repository as `resume.pdf`.
 
 ## 📬 Contact
-- LinkedIn: [Your LinkedIn Profile Link]  
-- Email: [Your Email Address]
+- LinkedIn: (https://www.linkedin.com/in/arbiya-‎-433252366?utm_source=share_via&utm_content=profile&utm_medium=member_android)]  
+- Email: arbiya936@gmail.com
